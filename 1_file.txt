@@ -1,3 +1,5 @@
 123
 pravka 1
 checking function back to local machine
+Add line bt the echo command
+new line second try
